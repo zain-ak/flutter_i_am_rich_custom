@@ -1,16 +1,9 @@
 # flutter_i_am_rich
 
-A practice Flutter application
+A practice Flutter application I created while following one of the tutorial sections in the Flutter course offered on [The App Brewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart). buttons
 
-## Getting Started
+After completing the tutorial, I made my own additions. The original application just shows an image you've uploaded as a resource and included in `pubspec.yaml`. 
+I went ahead and implemented a simple [Column](https://api.flutter.dev/flutter/widgets/Column-class.html) view with two children; the original image and a [CarouselSlider](https://pub.dev/packages/carousel_slider). The `CarouselSlider` holds an additional image
+within a `Container` and there are three items inside which you can slide.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Much yay. 🙌🏼
