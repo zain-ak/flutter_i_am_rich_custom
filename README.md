@@ -7,3 +7,5 @@ I went ahead and implemented a simple [Column](https://api.flutter.dev/flutter/w
 within a `Container` and there are three items inside which you can slide.
 
 Much yay. 🙌🏼
+
+<img src="i_am_rich.gif"/>
